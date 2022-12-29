@@ -1,12 +1,12 @@
 <?php
 /*
  * Plugin Name: Surname Field
- * Plugin URI: https://example.com/surname-field-woocommerce
+ * Plugin URI: https://github.com/hanbrandon/surname-field
  * Description: This plugin adds a surname field to the WooCommerce register form and provides a setting page on the dashboard where the user can select the option to save the surname field in the first name, last name, nickname, or both. 우커머스 회원가입 폼에 성함(Full Name) 입력란을 추가하는 플러그인 입니다. 저장된 값은 First Name, Last Name, 또는 Nickname 값으로 저장할 수 있습니다.
  * Version: 1.0
  * Author: Sang Hyun Han
- * Author URI: https://example.com
- * License: GPL2
+ * Author URI: https://github.com/hanbrandon/
+ * License: GPLv2 or later
  */
 
 // Add the surname field to the WooCommerce register form
